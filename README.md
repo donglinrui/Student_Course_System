@@ -10,3 +10,6 @@
 软件架构图
 
 ![image-20210203103643857](https://github.com/donglinrui/Student_Course_System/blob/main/README.assets/image-20210203103643857.png)
+
+测试视频：https://github.com/donglinrui/Student_Course_System/blob/main/Test%20Video/Android%20Emulator%20-%20Nexus_5X_API_27_5554%202019_3_31%2022_09_53.mp4
+
